@@ -18,7 +18,7 @@ p {
 /* Head-part-------------Css */
 
 header {
-    background-image: url(/images/donate1.jpg);
+    background-image: url(/pic/donate1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -324,7 +324,7 @@ header {
 }
 
 #registration-img {
-    background-image: url(/images/relif.jpg);
+    background-image: url(/pic/relif.jpg);
     background-position: center;
     background-repeat: no-repeat;
     height: 300px;
